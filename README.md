@@ -45,11 +45,11 @@ Para iniciar, execute:
 docker-compose up -d
 ```
 
-O n8n ficará acessível em [http://localhost:5678](http://localhost:5678) após alguns segundos.
+O n8n ficará acessível em [http://localhost:5679](http://localhost:5679) após alguns segundos.
 
 ### 3. Testando o Nó no n8n
 
-1. Abra a interface do n8n em [http://localhost:5678](http://localhost:5678)
+1. Abra a interface do n8n em [http://localhost:5679](http://localhost:5679)
 2. Crie um novo workflow
 3. Clique em `+` para adicionar um nó
 4. Procure por "Random"
